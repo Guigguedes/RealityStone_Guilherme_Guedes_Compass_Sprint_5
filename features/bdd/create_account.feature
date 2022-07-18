@@ -14,12 +14,12 @@ Funcionalidade: Realizar cadastro na loja virtual
             E depois preencher os campos de informação pessoal com os seguintes valores
             
             |Title |First_name |Last_name |Email                    |Password |Date_of_Birth   |
-            |Mr.   |Gabriel    |Gonçalves |test_automation@gmail.com|123Mudar*|12/December/1993|
+            |Mr.   |Gabriel    |Goncalvez |test_automation@gmail.com|123Mudar*|12/December/1993|
             
             E preencher os campos de endereço com as seguintes valores
             
-            |First_name|Last_name|Adress      |City         |State|Zip  |Mobile        |References|
-            |Bruno     |Araujo   |Street Nine |United States|Texas|76621|1(212)444-9999|Walmart   |
+            |First_name  |Last_name   |Adress      |City         |State|Zip  |Mobile        |References|
+            |Gabriel     |Goncalvez   |Street Nine |United States|Texas|76621|1(212)444-9999|Walmart   |
             
             E clicar no botão Register
             Então a página deve conter o seguinte mensagem

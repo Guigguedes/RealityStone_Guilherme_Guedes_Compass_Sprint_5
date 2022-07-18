@@ -20,7 +20,7 @@
           | Printed Chiffon Dress |   1      | S    | yellow|
           
           E clico no botão Add to cart
-          E savo o valor total da compra
+          E salvo o valor total da compra
           E clico no botão Proceed to checkout
           E devo ser redirecionado para tela "SHOPPING-CART SUMMARY"
           E clico no botão Proceed to checkout
@@ -33,7 +33,7 @@
           E valido as seguintes informações do endereço
           
           | name   | street  | city   | zip  | country | mobile        |
-          | Bruno  | Nine    | Texas  | 76621| United  | 1(212)444-9999|
+          | Gabriel  | Nine    | Texas  | 76621| United  | 1(212)444-9999|
          
           E na tela Adress clico no botão Proceed to checkout
           E devo ser redirecionado para tela "Shipping"

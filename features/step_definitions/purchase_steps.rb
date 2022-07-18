@@ -6,8 +6,7 @@ E("valido as seguintes informações do endereço") do |table|
 end
 
 E("na tela Adress clico no botão Proceed to checkout") do
-  page.execute_script("$('button.button.btn.btn-default.button-medium').click()")
-  expect_to_have_content('Resource Limit Is Reached')
+    page.execute_script("$('button.button.btn.btn-default.button-medium').click()")
 end
 
 E("na tela Shipping clico no botão Proceed to checkout") do

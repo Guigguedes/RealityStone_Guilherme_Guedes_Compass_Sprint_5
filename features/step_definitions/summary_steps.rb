@@ -1,4 +1,4 @@
-E("savo o valor total da compra") do
+E("salvo o valor total da compra") do
     @valor_compra = summary.get_value_buy
 end
 
